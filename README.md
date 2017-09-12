@@ -33,7 +33,7 @@ $ bundle exec rake clean package OFFLINE=true PINNED=true
 ```
 
 Rename and copy the buildpack from build\java-buildpack-offline-v4.5.zip to a location on your machine.
-Should be renamed: java-buildpack-openjdk-offline-v4.5.zip
+Should be renamed: java-openjdk-buildpack-v4.5_20170911.zip
 
 ### Build the oracle offline buildpack
 
@@ -54,7 +54,7 @@ $ bundle exec rake clean package OFFLINE=true PINNED=true
 ```
 
 Rename and copy the buildpack from build\java-buildpack-offline-v4.5.zip to a location on your machine.
-Should be renamed: java-buildpack-oracle-offline-v4.5.zip
+Should be renamed: java-oracle-buildpack-v4.5_20170911.zip
 
 ### Pre-requisite for building
 
