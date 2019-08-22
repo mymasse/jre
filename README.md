@@ -1,3 +1,5 @@
+# *Repository not maintained anymore and now read-only*
+
 # JRE repository
 
 ## To serve up HTTP content
